@@ -49,13 +49,30 @@ cd backend
 mvn spring-boot:run
 
 http://localhost:8080
-
-### frontend 
+```
+### Frontend 
+```bash
 cd frontend
 npm install
 npm run dev
 
 http://localhost:5173
+```
+
+##  Screenshots
+
+## 📸 Screenshots
+
+### Face Registration
+![Face Registration](screenshots/faceregister.png)
+
+### Face Login
+![Face Login](screenshots/facelogin.png)
+
+### Dashboard
+![Dashboard](screenshots/loginpage.png)
+
+
 
 
 
