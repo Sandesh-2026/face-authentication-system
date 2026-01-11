@@ -64,13 +64,13 @@ http://localhost:5173
 ## 📸 Screenshots
 
 ### Face Registration
-![Face Registration](screenshots/faceregister.png)
+![Face Registration](screenshot/faceregister.png)
 
 ### Face Login
-![Face Login](screenshots/facelogin.png)
+![Face Login](screenshot/facelogin.png)
 
 ### Dashboard
-![Dashboard](screenshots/loginpage.png)
+![Dashboard](screenshot/loginpage.png)
 
 
 
